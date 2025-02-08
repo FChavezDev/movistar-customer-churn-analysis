@@ -1,9 +1,9 @@
 # movistar-customer-churn-analysis
-"Análisis de abandono de clientes en Movistar usando SQL Server y Python. Incluye exploración de datos, segmentación de clientes y generación de reportes."
+"Análisis de abandono de clientes ficticios en Movistar usando SQL Server y Python. Incluye exploración de datos, segmentación de clientes y generación de reportes."
 
 # 📊 Análisis de Abandono de Clientes en Movistar 🚀
 
-Este proyecto analiza el abandono de clientes en **Movistar** usando **SQL Server y Python**. Se aplican técnicas de **exploración de datos, segmentación de clientes y generación de reportes**.
+Este proyecto analiza el abandono de clientes ficticios en **Movistar** usando **SQL Server y Python**. Se aplican técnicas de **exploración de datos, segmentación de clientes y generación de reportes**.
 
 ## 📌 Tecnologías Usadas
 - 🗄️ **SQL Server** (Creación y carga de la base de datos)
